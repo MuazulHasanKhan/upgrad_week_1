@@ -1,6 +1,4 @@
-# upgrad_week_1
-
-# Machine Learning Laboratory 1: Python, NumPy, Pandas & Matplotlib Fundamentals
+# Prereqisites - Machine Learning Fundamentals (Week 1): Python, NumPy, Pandas & Matplotlib Fundamentals
 
 ## Overview
 
